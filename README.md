@@ -15,7 +15,7 @@
 
 ##
 
-<div align=center>
+<div style="display: inline_block" align=center>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vtiusko&show_icons=true&include_all_commits=true&bg_color=fff0" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtiusko&layout=compact&bg_color=fff0" />
 </div>
