@@ -1,4 +1,9 @@
-### Olá! Me chamo Victor Guilherme.👋
+### Olá! Me chamo Victor Guilherme.
+<p align=center>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=Olá!+Me+chamo+Victor+Guilherme...;Muito+prazer!👋" />
+  </a>
+</p>
 
 - 🔭 Hoje trabalho como Auxiliar de Mídias Digitais
 - 👨🏼‍💻 Graduando: Análise e Desenvolvimento de Sistemas
