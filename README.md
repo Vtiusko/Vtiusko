@@ -26,10 +26,11 @@
 
 ## Tecnologias que eu <i>estudo</i> no meu dia a dia  </>:
 <div style="display: inline_block" align=center><br>
+  <!--Link repositório de ícones: "https://github.com/onemarc/tech-icons/tree/main" -->
   <img align=center hspace=20 alt="Símbolo linguagem de programação Python" width=60 src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-  <img align=center hspace=20 alt="Símbolo linguagem de programação Java" width=60 src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
-  <img align=center hspace=20 alt="Símbolo linguagem de programação JavaScript" width=60 src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
-  <img align=center hspace=20 alt="Símbolo Banco de Dados SQL Server" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img align=center hspace=20 alt="Símbolo da Ferramenta Selenium" width=60 src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg" />
+  <img align=center hspace=20 alt="Símbolo da Ferramenta Pandas" width=60 src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/pandas-light.svg" />
+  <img align=center hspace=20 alt="Símbolo da Ferramenta Tkinter" width=60 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthqlCAYdU0QgPtV8jcOu3ftzNcEH7I-1WJix2MpJg0JI4n9L5D5Pvi_uP1O0MteIfF0Q&usqp=CAU" />
   <img align=center hspace=20 alt="Símbolo Linguagem de marcação HTML" width=60 src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
   <img align=center hspace=20 alt="Símbolo linguagem de estilização CSS" width=60 src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
 </div>
