@@ -6,7 +6,7 @@
 
 <div>
   <p>
-    - 🖥️ Hoje trabalho como <strong>Auxiliar de Mídias Digitais</strong> <br />
+    - 🖥️ Hoje trabalho como <strong>Desenvolvedor de Softwares Jr</strong> <br />
     - 👨🏼‍💻 <strong>Graduando:</strong> Análise e Desenvolvimento de Sistemas <br />
     - 🌱 <strong>Atualmente estudando:</strong> Python & SQL Server <br />
     - 😊 <strong>Pronouns:</strong> Ele / Dele <br />
